@@ -1,0 +1,6 @@
+name: maxima-env
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - maxima
